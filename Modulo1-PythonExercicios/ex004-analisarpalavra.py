@@ -1,0 +1,6 @@
+a=input('Digite alguma coisa: ')
+print('Este tipo primitivo {} é:' .format (a), type(a))
+print('Vc digitou {} é numérico: '.format(a),a.isnumeric())
+print('Vc digitou {} está em letra maiúscula: '.format(a), a.isupper())
+print('Vc digitou {} é alfa numérico:'.format(a),a.isalnum())
+print('Esta capitalizado {}: '.format(a),a.istitle())
