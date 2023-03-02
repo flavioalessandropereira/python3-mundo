@@ -14,7 +14,7 @@ print('JO')
 sleep(1)
 print('KEN')
 sleep(1)
-print('PO!!!')
+print('PÔ!!!')
 
 print('-=' * 12)
 
