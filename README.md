@@ -1,6 +1,6 @@
 # python3-mundo
 
 Estudo do Python utilizando o curso "Curso em Video" ...
-Curso em vídeo para estudos e ponto de referência para pesquisa - Guanabara 
+Curso em vídeo para estudos e ponto de referência para futuras pesquisas - Guanabara 
 ***continuando...
  * estudando a partir de agora o for 
