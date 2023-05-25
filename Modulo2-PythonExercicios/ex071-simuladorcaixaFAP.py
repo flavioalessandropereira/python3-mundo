@@ -4,6 +4,7 @@ total = valor
 
 cedulaatual = 100
 totalcedula = 0
+
 while True:
     if total >= cedulaatual:
         total = total - cedulaatual
